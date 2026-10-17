@@ -26,5 +26,26 @@
     "prompt_tokens": 686,
     "answer_tokens": 9,
     "thinking_tokens": null
+  },
+  "37a4a7bb1b8ac8d40db71f645ec098b97c6f7b8627cb372eb01be28aa2998a4d": {
+    "answer": "No, eligible spouses who work for the same employer are limited to a combined total of 12 workweeks of leave in a 12-month period to share for the birth and bonding with a newborn child [C140]. Therefore, you cannot each take 12 separate weeks for this reason, as the 12-workweek limit must be shared between you [C140].",
+    "seconds": 2.17,
+    "prompt_tokens": 753,
+    "answer_tokens": 84,
+    "thinking_tokens": 487
+  },
+  "97e4ac60fc998ccf92d7adfcdd6387b60272e31d79c6dc92f25566fb3ac8c9eb": {
+    "answer": "You can take up to a total of 26 workweeks of unpaid leave during a \"single 12-month period\" to care for your son if he is a covered servicemember with a serious injury or illness and you are his parent [C104, C51]. However, you are limited to a combined total of 26 workweeks of leave for any FMLA-qualifying reasons during that single 12-month period [C51, C1].",
+    "seconds": 1.87,
+    "prompt_tokens": 598,
+    "answer_tokens": 102,
+    "thinking_tokens": 554
+  },
+  "3acb0c385a988a6aa36390daf1e898b3e3326dd9e974a79a76d0957e47ddc4e6": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 1.31,
+    "prompt_tokens": 610,
+    "answer_tokens": 9,
+    "thinking_tokens": 309
   }
 }

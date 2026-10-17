@@ -1,0 +1,8 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "reply": "Hello, how are you today?",
+  "seconds": 0.9,
+  "prompt_tokens": 7,
+  "answer_tokens": 7,
+  "thinking_tokens": null
+}

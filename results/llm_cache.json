@@ -1,0 +1,30 @@
+{
+  "5b7ab461d360b1bd955365eabb5c0c806148928848add85aa8622b6d48e620ba": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 1.28,
+    "prompt_tokens": 740,
+    "answer_tokens": 9,
+    "thinking_tokens": null
+  },
+  "711136050ed78537d2906626b154bdb20d3fa3f1b60ff5539fd06a290b93222c": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 0.71,
+    "prompt_tokens": 748,
+    "answer_tokens": 9,
+    "thinking_tokens": null
+  },
+  "bf12e3067ea092b5d84936cf5884cf8823b08b42a75a3158b267b7bb71e9c01a": {
+    "answer": "You can take up to a total of 26 workweeks of unpaid leave during a \"single 12-month period\" to care for your son if he is a covered servicemember with a serious injury or illness [C104]. To be eligible, you must be the spouse, son, daughter, parent, or next of kin of the servicemember [C104]. However, you are limited to a combined total of 26 workweeks of leave for any FMLA-qualifying reasons during this single 12-month period [C1].",
+    "seconds": 2.1,
+    "prompt_tokens": 625,
+    "answer_tokens": 121,
+    "thinking_tokens": 493
+  },
+  "d185031152aadfbbb7845257b8aead10702012096e23c814f7bd5e99faaf2b7d": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 0.95,
+    "prompt_tokens": 686,
+    "answer_tokens": 9,
+    "thinking_tokens": null
+  }
+}

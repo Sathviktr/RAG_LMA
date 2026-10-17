@@ -1,0 +1,98 @@
+[
+  {
+    "id":"Q01",
+    "pipeline":"Pipeline 1",
+    "seconds":1.486,
+    "prompt_tokens":740,
+    "answer_tokens":9,
+    "thinking_tokens":315.0
+  },
+  {
+    "id":"Q01",
+    "pipeline":"Pipeline 2",
+    "seconds":1.427,
+    "prompt_tokens":753,
+    "answer_tokens":56,
+    "thinking_tokens":380.0
+  },
+  {
+    "id":"Q05",
+    "pipeline":"Pipeline 1",
+    "seconds":0.59,
+    "prompt_tokens":720,
+    "answer_tokens":9,
+    "thinking_tokens":null
+  },
+  {
+    "id":"Q05",
+    "pipeline":"Pipeline 2",
+    "seconds":0.658,
+    "prompt_tokens":733,
+    "answer_tokens":55,
+    "thinking_tokens":null
+  },
+  {
+    "id":"Q11",
+    "pipeline":"Pipeline 1",
+    "seconds":0.699,
+    "prompt_tokens":708,
+    "answer_tokens":21,
+    "thinking_tokens":null
+  },
+  {
+    "id":"Q11",
+    "pipeline":"Pipeline 2",
+    "seconds":0.763,
+    "prompt_tokens":710,
+    "answer_tokens":62,
+    "thinking_tokens":null
+  },
+  {
+    "id":"Q15",
+    "pipeline":"Pipeline 1",
+    "seconds":2.402,
+    "prompt_tokens":758,
+    "answer_tokens":9,
+    "thinking_tokens":713.0
+  },
+  {
+    "id":"Q15",
+    "pipeline":"Pipeline 2",
+    "seconds":0.89,
+    "prompt_tokens":766,
+    "answer_tokens":120,
+    "thinking_tokens":null
+  },
+  {
+    "id":"Q16",
+    "pipeline":"Pipeline 1",
+    "seconds":0.989,
+    "prompt_tokens":768,
+    "answer_tokens":167,
+    "thinking_tokens":null
+  },
+  {
+    "id":"Q16",
+    "pipeline":"Pipeline 2",
+    "seconds":2.638,
+    "prompt_tokens":742,
+    "answer_tokens":150,
+    "thinking_tokens":691.0
+  },
+  {
+    "id":"Q18",
+    "pipeline":"Pipeline 1",
+    "seconds":0.558,
+    "prompt_tokens":665,
+    "answer_tokens":9,
+    "thinking_tokens":null
+  },
+  {
+    "id":"Q18",
+    "pipeline":"Pipeline 2",
+    "seconds":1.322,
+    "prompt_tokens":695,
+    "answer_tokens":125,
+    "thinking_tokens":null
+  }
+]

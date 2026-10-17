@@ -1,0 +1,22 @@
+id,type,gold,best_gold,bi_rank,ce_rank,outcome,top3_p1,top3_p2,question
+Q01,N,[140],140,4,1,fixed by re-ranking,"[0, 50, 52]","[140, 142, 50]",My wife and I work for the same company. Can each of us take 12 weeks of FMLA leave for our new baby?
+Q02,E,[141],141,1,3,both hit,"[141, 140, 142]","[140, 142, 141]",My wife and I work for the same company and share the 12-week limit for our baby. Does that shared limit also apply to her own recovery after giving birth?
+Q03,N,[141],141,2,3,both hit,"[140, 141, 144]","[140, 143, 141]",My girlfriend and I are not married but work for the same employer. Do we have to share 12 weeks of leave for our child?
+Q04,N,[205],205,15,,both miss (recall),"[81, 2, 152]","[158, 152, 153]",Can my employer count my FMLA absences against me under a no-fault attendance policy?
+Q05,N,[204],204,7,2,fixed by re-ranking,"[37, 36, 7]","[36, 204, 37]",Is an employer allowed to move employees to another site to keep a worksite under 50 employees so nobody qualifies for FMLA?
+Q06,E,[186],186,30,,both miss (recall),"[180, 168, 179]","[184, 175, 179]",Does my employer always have to give me my job back when I return from FMLA leave?
+Q07,"K,N",[128],128,1,1,both hit,"[128, 127, 129]","[128, 129, 67]",Can my employer require a second medical opinion on my fitness-for-duty certification before I return to work?
+Q08,"K,N","[102, 103]",103,1,1,both hit,"[103, 102, 86]","[103, 102, 86]",My employer asked for a second opinion on my qualifying exigency leave certification. Is that allowed?
+Q09,N,[83],83,1,1,both hit,"[83, 69, 75]","[83, 67, 70]",Can my direct supervisor call my doctor to clarify my medical certification?
+Q10,N,[31],31,1,1,both hit,"[31, 32, 33]","[31, 32, 33]","Does my vacation time count toward the 1,250 hours of service?"
+Q11,"E,K",[40],40,10,3,fixed by re-ranking,"[28, 37, 31]","[28, 120, 40]",I am a flight attendant. How many hours must I have worked in the last year to qualify for FMLA leave?
+Q12,K,[29],29,1,1,both hit,"[29, 30, 134]","[29, 30, 133]",Do the 12 months I worked for my employer have to be in a row?
+Q13,N,"[54, 55]",54,1,1,both hit,"[54, 131, 201]","[54, 0, 131]",Can I take FMLA leave to care for my mother-in-law?
+Q14,K,"[54, 55, 57]",55,2,3,both hit,"[131, 55, 56]","[131, 52, 54]",My grandmother raised me after my parents died. Can I take FMLA leave to care for her?
+Q15,E,[172],172,6,2,fixed by re-ranking,"[173, 170, 178]","[173, 172, 178]",Can my employer cancel my health insurance if I stop paying my share of the premium while on FMLA leave?
+Q16,E,[175],175,4,1,fixed by re-ranking,"[173, 178, 172]","[175, 178, 172]","If I decide not to come back after FMLA leave, can my employer make me pay back the health insurance premiums?"
+Q17,C,[155],155,21,,both miss (recall),"[158, 159, 2]","[159, 150, 158]",Can my employer make me use my paid vacation days during my FMLA leave?
+Q18,C,[23],23,7,1,fixed by re-ranking,"[70, 24, 67]","[23, 24, 70]",How far in advance do I need to tell my employer about a planned surgery?
+Q19,E,[145],145,1,1,both hit,"[145, 134, 147]","[145, 147, 185]",Is a teacher's leave near the end of the school semester handled differently?
+Q20,"K,N","[34, 35]",34,1,1,both hit,"[34, 35, 36]","[35, 34, 36]",I work from home. Is my house counted as my worksite for the 50-employees-within-75-miles rule?
+Q21,C,"[1, 104]",104,1,1,both hit,"[104, 98, 1]","[104, 51, 1]",How many weeks of leave can I take to care for my son who was seriously injured in military service?

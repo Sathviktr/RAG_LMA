@@ -47,5 +47,243 @@
     "prompt_tokens": 610,
     "answer_tokens": 9,
     "thinking_tokens": 309
+  },
+  "200ad5986282c480a12d6ec6f35a9cb063d4ae97c8a8a6d0dc99a9fccc138d3f": {
+    "answer": "No, the shared 12-week limit does not apply to leave taken for one's own serious health condition [C141]. The context explicitly states that this limitation does not apply to leave for an employee's own recovery period following the birth of a child [C141].",
+    "seconds": 1.94,
+    "prompt_tokens": 749,
+    "answer_tokens": 62,
+    "thinking_tokens": 422
+  },
+  "12e43330e21ff1d2784c9d903308e7b28e91dcc99b8c96925762f77ad793216f": {
+    "answer": "No, the shared limit does not apply to leave for a person's own serious health condition, such as the recovery period following the birth of a child [C141]. If only one spouse is eligible for FMLA leave, that individual is entitled to the full 12 workweeks [C141]. This limitation also does not apply to leave to care for a spouse, son, or daughter with a serious health condition [C141].",
+    "seconds": 1.23,
+    "prompt_tokens": 749,
+    "answer_tokens": 95,
+    "thinking_tokens": null
+  },
+  "524f15c0614ed6d67fbc72a76c972fa55712c24191a400004c6ab18d216b4667": {
+    "answer": "No, you do not have to share the 12 weeks of leave [C141]. The limitation on sharing leave does not apply to two employees who are not legally married, even if they live together or have a child together [C141].",
+    "seconds": 0.89,
+    "prompt_tokens": 639,
+    "answer_tokens": 54,
+    "thinking_tokens": null
+  },
+  "12d23571f358a4f182093ad901477fca4f5103e47453896ae78482339c07f235": {
+    "answer": "No, you do not have to share the 12 weeks of leave [C141]. The limitation on sharing leave does not apply to two employees working for the same employer who are not legally married, even if they have a child together [C141]. Therefore, you are not subject to the combined leave restriction [C141].",
+    "seconds": 0.96,
+    "prompt_tokens": 741,
+    "answer_tokens": 73,
+    "thinking_tokens": null
+  },
+  "c9f02ae6463999cfe5ccd21e556770b0471d4c929ab14f6b3998c61419b74cf0": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 1.31,
+    "prompt_tokens": 720,
+    "answer_tokens": 9,
+    "thinking_tokens": 344
+  },
+  "9cb9b31d1df2a5ff88373f2a0220a079df0688f06af618a7f5d121ae0e53de8e": {
+    "answer": "No, employers are prohibited from interfering with, restraining, or denying the exercise of FMLA rights [C204]. This includes manipulating responsibilities by transferring employees from one worksite to another for the purpose of keeping a worksite below the 50-employee threshold required for employee eligibility [C204].",
+    "seconds": 0.83,
+    "prompt_tokens": 733,
+    "answer_tokens": 65,
+    "thinking_tokens": null
+  },
+  "8ece74d54a56476d9ca74b42d0a70537fa108d02c42952fc62c66cf0cd5ecc1f": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 2.09,
+    "prompt_tokens": 583,
+    "answer_tokens": 9,
+    "thinking_tokens": 663
+  },
+  "d17c9a4425a3d8d50298aced8387c225f690984be5a15f6b339eb01c696c5328": {
+    "answer": "No, not unconditionally; an employee has the right to be restored to the same or an equivalent position upon returning from FMLA leave, provided that the employee is able to perform the essential functions of the position [C184].",
+    "seconds": 1.44,
+    "prompt_tokens": 706,
+    "answer_tokens": 47,
+    "thinking_tokens": 362
+  },
+  "078e1133bea83aee12dee497b440038b9103c03a2f290bc569f575a4b0487a4e": {
+    "answer": "No, the employer may not require second or third opinions on a fitness-for-duty certification [C128].",
+    "seconds": 0.74,
+    "prompt_tokens": 641,
+    "answer_tokens": 25,
+    "thinking_tokens": null
+  },
+  "0dfafcc006f48cf0c6396fa7e829739f2948072d7d3b4562f34ee6781c0ee3e9": {
+    "answer": "No, the employer may not require second or third opinions for a fitness-for-duty certification [C128].",
+    "seconds": 0.7,
+    "prompt_tokens": 604,
+    "answer_tokens": 25,
+    "thinking_tokens": null
+  },
+  "147f70e607c5629d5558a5c1bf24a8a954266fd9c7774332893cc9d9a9f22bdd": {
+    "answer": "No, that is not allowed. For qualifying exigency leave, an employer is explicitly not permitted to require second and third opinions or recertifications [C103, C102].",
+    "seconds": 0.64,
+    "prompt_tokens": 732,
+    "answer_tokens": 40,
+    "thinking_tokens": null
+  },
+  "db5d770944dee311617a0e8fa397cfbd300ae33fc1b6bd975c1b3248d7fc91f6": {
+    "answer": "No, your direct supervisor cannot contact your health care provider under any circumstances [C83]. Instead, contact for authentication or clarification must be made by a human resources professional, a leave administrator, or a management official, and only after the employee has been given the opportunity to cure any deficiencies [C83].",
+    "seconds": 1.6,
+    "prompt_tokens": 580,
+    "answer_tokens": 63,
+    "thinking_tokens": 430
+  },
+  "7af27b2bdebceb341fa80c3574a7ae3fc4ec83fcc1e4973f5fc2ade5c26e4524": {
+    "answer": "No, under no circumstances may your direct supervisor contact your health care provider [C83]. Instead, the contact must be made by a human resources professional, a leave administrator, or a management official [C83]. Furthermore, this contact is only permitted for purposes of authentication and/or clarification after the employee has been given the opportunity to cure any deficiencies [C83].",
+    "seconds": 1.63,
+    "prompt_tokens": 680,
+    "answer_tokens": 77,
+    "thinking_tokens": 414
+  },
+  "718aebb2609a2e99b1b542e83cd79d95389bfb3de678b960f3ce32dca994e176": {
+    "answer": "No, vacation time does not count toward the 1,250 hours of service requirement [C31]. Only time actually worked, including overtime and time worked as a part-time, temporary, or seasonal employee, is counted [C31, C32]. Time not actually worked\u2014such as vacation, personal leave, sick leave, holidays, other paid time off, unpaid leave, and periods of layoff\u2014is excluded [C31, C32].",
+    "seconds": 0.76,
+    "prompt_tokens": 630,
+    "answer_tokens": 98,
+    "thinking_tokens": null
+  },
+  "64096b7dd09b163ee502d7a05457b660e6ba31b45760e3ef04a902c47574f478": {
+    "answer": "The provided context does not contain the answer [C28, C31, C37].",
+    "seconds": 0.69,
+    "prompt_tokens": 708,
+    "answer_tokens": 21,
+    "thinking_tokens": null
+  },
+  "c9278ea6d3883ece636bdfff8b0d583d558da946dae9c5fa3aad5fd212877a17": {
+    "answer": "As a flight attendant, you meet the hours of service requirement if, during the previous 12 months, you have worked or been paid for not less than 60 percent of your applicable monthly guarantee, and for not less than 504 hours [C40].",
+    "seconds": 0.72,
+    "prompt_tokens": 710,
+    "answer_tokens": 57,
+    "thinking_tokens": null
+  },
+  "fe0ad5f776d56ac6d9d7e8f4a3038969b6578587bc181f6a5a73ac5712c144d1": {
+    "answer": "No, the 12 months of employment do not have to be consecutive, and part-time, temporary, or seasonal work generally counts [C29]. If an employee has a break in employment lasting seven years or more, the employer is not required to count prior work unless it is due to USERRA service or there is a written agreement outlining the intention to rehire [C29]. Alternatively, an employer may voluntarily consider periods of employment prior to a break of more than seven years, provided it does so uniformly for all employees with similar breaks [C30].",
+    "seconds": 0.82,
+    "prompt_tokens": 634,
+    "answer_tokens": 117,
+    "thinking_tokens": null
+  },
+  "5444bafe3ae109efaf4779ec0cfed2f3982f091f6cdd6feb03935b1d5281d790": {
+    "answer": "No, the 12 months of employment do not have to be consecutive [C29]. Part-time, temporary, or seasonal work generally counts, and any combination of 52 weeks equals 12 months [C29]. However, if an employee has a break in employment lasting seven years or more, the employer is not required to count the prior time worked unless the break is due to USERRA service or there is a written agreement outlining the intention to rehire [C29, C30].",
+    "seconds": 0.85,
+    "prompt_tokens": 631,
+    "answer_tokens": 107,
+    "thinking_tokens": null
+  },
+  "66f31c2fa86812ab62c17ff2c0e3e6e5b7609329e66380cb9c79097367103de0": {
+    "answer": "No, you cannot take FMLA leave to care for a mother-in-law [C54]. The FMLA defines eligible parents, but the term explicitly does not include \"parents-in-law\" [C54].",
+    "seconds": 1.61,
+    "prompt_tokens": 646,
+    "answer_tokens": 48,
+    "thinking_tokens": 411
+  },
+  "3d9690f59adeb5f10edab3d6213337b6f217efa9ffd43bca259816d69e00c147": {
+    "answer": "The provided context states that the definition of a \"parent\" for FMLA leave includes biological, adoptive, step, or foster parents, or someone who stood in *loco parentis* when the employee was a child, but it explicitly does not include \"parents-in-law\" [C54]. Therefore, you cannot take FMLA leave to care for your mother-in-law [C54].",
+    "seconds": 0.87,
+    "prompt_tokens": 653,
+    "answer_tokens": 85,
+    "thinking_tokens": null
+  },
+  "856dbffa99dc4694020dcbfebc3f78c2dd7731361e03a40aba742d59b2b14d90": {
+    "answer": "The provided context does not contain the answer [C131, C55, C56].",
+    "seconds": 0.63,
+    "prompt_tokens": 686,
+    "answer_tokens": 22,
+    "thinking_tokens": null
+  },
+  "d57095c487095166ae644b3e0e4625576edaa99246dfc34a93a536a788fadbe7": {
+    "answer": "Yes, you can take FMLA leave to care for your grandmother if she stood in *loco parentis* to you when you were a child, as the definition of a \"parent\" includes any individual who stood in *loco parentis* to the employee [C54].",
+    "seconds": 0.89,
+    "prompt_tokens": 683,
+    "answer_tokens": 59,
+    "thinking_tokens": null
+  },
+  "b8498efbb6caa3abe55f42d0babfca9ad3eb9b389a5f8954220e3794e0667bbf": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 2.76,
+    "prompt_tokens": 758,
+    "answer_tokens": 9,
+    "thinking_tokens": 908
+  },
+  "ca128e9c4c39023cf6edcff81c0767d97c063a075eceb6fe53acc543fecdbed0": {
+    "answer": "Yes, an employer may drop your health insurance coverage if your premium payment is more than 30 days late, unless the employer has a policy allowing a longer grace period [C172]. To do so, the employer must mail a written notice to you at least 15 days before coverage ceases, stating that the payment has not been received and that coverage will end on a specified date [C172]. Even if your health insurance coverage is canceled due to non-payment, all other FMLA obligations continue, including the obligation to reinstate you upon your return from leave [C172].",
+    "seconds": 2.07,
+    "prompt_tokens": 766,
+    "answer_tokens": 124,
+    "thinking_tokens": 580
+  },
+  "58e60b1f0441de5368833e07003191cf3e208670351d4422bb1c3c71d67336c5": {
+    "answer": "Yes, if an employer chooses to maintain health benefits during unpaid FMLA leave by paying the employee's share of the premiums, the employer is entitled to recover those costs at the conclusion of the leave, regardless of whether the employee returns to work [C173]. When an employee fails to return to work, any health and non-health benefit premiums that the FMLA permits the employer to recover become a debt owed by the non-returning employee [C178]. However, recovery of health insurance premiums does not apply when paid leave is substituted for FMLA leave for the period covered by the paid leave, nor does it apply to paid leave provided under a plan covering temporary disabilities, including workers' compensation [C178].",
+    "seconds": 1.31,
+    "prompt_tokens": 768,
+    "answer_tokens": 150,
+    "thinking_tokens": null
+  },
+  "6a0c591c0f5cb707b95a6a156996d60027cd77d3c43329e3d031f1aa52b824a5": {
+    "answer": "Yes, an employer may recover its share of health plan premiums paid during unpaid FMLA leave if you fail to return to work after your leave entitlement is exhausted or expires [C175]. However, this recovery is subject to exceptions if you do not return due to the continuation, recurrence, or onset of a serious health condition (or serious injury/illness of a covered servicemember), or other circumstances beyond your control [C175]. Additionally, employers cannot recover these premiums if paid leave is substituted for FMLA leave for the period covered by the paid leave [C178].",
+    "seconds": 0.86,
+    "prompt_tokens": 742,
+    "answer_tokens": 122,
+    "thinking_tokens": null
+  },
+  "b892a3973ef645223f0319893203cc99ce205a5eacfb56434fdb0b911181f916": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 0.96,
+    "prompt_tokens": 665,
+    "answer_tokens": 9,
+    "thinking_tokens": null
+  },
+  "cf28b1d8230ad6bcd16d013a18c799179fc8a9ae9513884f61923b924fafdf46": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 0.64,
+    "prompt_tokens": 620,
+    "answer_tokens": 9,
+    "thinking_tokens": null
+  },
+  "b584c3992e7375595e72a12df67de06d8e636d4197c977f254397448f886ee96": {
+    "answer": "The provided context does not contain the answer.",
+    "seconds": 0.63,
+    "prompt_tokens": 665,
+    "answer_tokens": 9,
+    "thinking_tokens": null
+  },
+  "b40db4651957edf225a1faf734f286a7905262c9cbdc5edd642aa6c441e02e05": {
+    "answer": "Generally, you must provide at least 30 days advance notice of the need for FMLA leave if you know about the need in advance and it is possible and practical to do so [C23]. However, if 30 days advance notice is not possible because the situation has changed or you do not know exactly when leave will be required, you must provide notice as soon as possible and practical [C23].",
+    "seconds": 0.78,
+    "prompt_tokens": 695,
+    "answer_tokens": 86,
+    "thinking_tokens": null
+  },
+  "8e1b023493d76dab4f3f57d1cc423e1cea173837cbf7dc8718bdb02ca87c6ffd": {
+    "answer": "Yes, there are special rules when a school instructional employee takes leave near the end of an academic term [C145]. Additionally, leave taken by an instructional employee for a period ending with the school year and beginning the next semester is considered leave taken consecutively rather than intermittently [C145]. Furthermore, the summer vacation period when the employee is not required to report for duty does not count against their FMLA leave entitlement [C145].",
+    "seconds": 0.91,
+    "prompt_tokens": 635,
+    "answer_tokens": 92,
+    "thinking_tokens": null
+  },
+  "306b3cd13c03d15c8f8ad77078050779dad0d0f7e8ed46c1e64bb085919a3cde": {
+    "answer": "Yes, there are special rules when a school instructional employee takes leave near the end of an academic term [C145]. Additionally, leave taken for a period that ends with the school year and begins the next semester is considered leave taken consecutively rather than intermittently [C145]. The summer vacation period, when the employee is not required to report for duty, does not count against their FMLA leave entitlement [C145].",
+    "seconds": 0.74,
+    "prompt_tokens": 579,
+    "answer_tokens": 89,
+    "thinking_tokens": null
+  },
+  "c382a502ac8b1914017872357fafc5aaae8e3fed4e2e3b7b4ffa83a465c8e78f": {
+    "answer": "No, an employee's personal residence is not a worksite [C34, C35]. For employees who work from home under \"telework\" or \"flexi-place\" arrangements, the worksite is instead the office to which they report or from which they receive assignments [C35].",
+    "seconds": 1.45,
+    "prompt_tokens": 770,
+    "answer_tokens": 64,
+    "thinking_tokens": 402
+  },
+  "478f6053e248c1819cfa9b4be8f2ff6021e6a6e5be78bbd78d778f74d6d202f8": {
+    "answer": "No, an employee's personal residence is not considered a worksite [C35, C34]. For employees who work from home under telework or flexi-place arrangements, the worksite is instead the office to which they report or from which they receive assignments [C35].",
+    "seconds": 0.68,
+    "prompt_tokens": 770,
+    "answer_tokens": 61,
+    "thinking_tokens": null
   }
 }

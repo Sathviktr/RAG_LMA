@@ -1,11 +1,11 @@
 ,mean,median,p95
-1. query embedding,12.8,12.9,14.4
-"2. vector search (FAISS, top 10)",0.2,0.2,0.2
-3. cross-encoder re-ranking (10),292.7,293.4,315.2
-Retrieval total - Pipeline 1,12.9,13.1,14.6
-Retrieval total - Pipeline 2,305.6,306.8,330.1
+1. query embedding,12.5,12.6,15.4
+"2. vector search (FAISS, top 10)",0.1,0.1,0.2
+3. cross-encoder re-ranking (10),292.1,290.3,318.1
+Retrieval total - Pipeline 1,12.6,12.7,15.6
+Retrieval total - Pipeline 2,304.8,302.3,331.4
 4. generation - Pipeline 1,1120.7,844.0,2173.0
 4. generation - Pipeline 2,1283.0,1106.0,2335.2
-End-to-end - Pipeline 1 (sum of medians),,857.1,
-End-to-end - Pipeline 2 (sum of medians),,1412.8,
-Offline: embed all 207 chunks (once),4655.7,,
+End-to-end - Pipeline 1 (sum of medians),,856.7,
+End-to-end - Pipeline 2 (sum of medians),,1408.3,
+Offline: embed all 207 chunks (once),4839.4,,

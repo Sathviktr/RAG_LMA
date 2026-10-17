@@ -1,0 +1,9 @@
+chunks,bi_encoder_search_ms,retrieve_rerank10_ms,cross_encoder_all_ms,measured,cross_encoder_all_human
+207,12.6,302.8,6072.6,all measured,6.1 s
+1000,12.6,302.9,29336.0,"search measured, cross-encoder estimated",29.3 s
+10000,13.1,303.3,293360.3,"search measured, cross-encoder estimated",5 min
+100000,19.9,310.1,2933603.4,"search measured, cross-encoder estimated",49 min
+500000,49.3,339.5,14668016.8,"search measured, cross-encoder estimated",4.1 h
+1000000,86.1,376.4,29336033.6,all estimated,8.1 h
+10000000,749.0,1039.3,293360336.3,all estimated,3 days
+100000000,7378.1,7668.4,2933603363.0,all estimated,34 days
